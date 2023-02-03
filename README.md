@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Emeldah 
-- 🌱 I’m currently learning at ALX AFRICA
+- 🌱 I’m currently learning SE at ALX AFRICA
 - 📫 How to reach me ...email- emeldahamatengo@mail.com
 - I'm passionate about web development and data in general
 
